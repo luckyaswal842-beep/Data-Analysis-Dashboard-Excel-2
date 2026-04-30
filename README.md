@@ -17,3 +17,5 @@ The goal of this project is to analyze sales data and derive actionable insights
 - Product Popularity by Occasion:  
 - Day-wise Revenue Analysis:  
 - Delivery/Time Trends: 
+
+- Dashboard interaction <a href="https://github.com/luckyaswal842-beep/Data-Analysis-Dashboard-Excel-2/blob/main/EXCEL%20PROJECT.png">View Dashboard</a>
