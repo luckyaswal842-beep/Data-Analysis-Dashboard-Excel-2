@@ -22,6 +22,7 @@ The goal of this project is to analyze sales data and derive actionable insights
 
 ## Process
 1 Data Collection
+
 -Gathered raw sales dataset containing fields like Order Date, Delivery Date, Product Category, Occasion, City, Revenue, and Customer details.
 
 2 Data Cleaning & Preparation
@@ -49,5 +50,6 @@ The goal of this project is to analyze sales data and derive actionable insights
 - Slicers (Order Date, Delivery Date, Occasion filters)
 
 6 Interactivity
+
 Connected slicers to multiple Pivot Tables
 Enabled dynamic filtering across the dashboard
