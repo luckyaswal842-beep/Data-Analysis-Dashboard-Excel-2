@@ -5,3 +5,15 @@ The goal of this project is to analyze sales data and derive actionable insights
 
 ## Dataset Used
 - <a href="https://github.com/luckyaswal842-beep/Data-Analysis-Dashboard-Excel-2/blob/main/project%202%20file.xlsx">Data set</a>
+
+## Questions (KPIs)
+- Total Revenue:
+- Average Order and Delivery Time:  
+- Monthly Sales Performance:  
+- Top Products by Revenue:  
+- Customer Spending Analysis: 
+- Sales Performance by Category:  
+- Top 10 Cities by Number of Orders:  
+- Product Popularity by Occasion:  
+- Day-wise Revenue Analysis:  
+- Delivery/Time Trends: 
