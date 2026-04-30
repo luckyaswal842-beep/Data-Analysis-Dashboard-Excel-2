@@ -19,3 +19,30 @@ The goal of this project is to analyze sales data and derive actionable insights
 - Delivery/Time Trends: 
 
 - Dashboard interaction <a href="https://github.com/luckyaswal842-beep/Data-Analysis-Dashboard-Excel-2/blob/main/EXCEL%20PROJECT.png">View Dashboard</a>
+
+## Process
+1 Data Collection
+-Gathered raw sales dataset containing fields like Order Date, Delivery Date, Product Category, Occasion, City, Revenue, and Customer details.
+2 Data Cleaning & Preparation
+- Removed duplicates and handled missing values
+- Standardized date formats and categorical values
+- Created calculated columns (e.g., order intervals, revenue per customer)
+3 Data Modeling
+- Structured data into a tabular format suitable for analysis
+- Created relationships (if multiple tables were used)
+4 Data Analysis
+- Used Pivot Tables to summarize:
+- Revenue by Occasion
+- Revenue by Category
+- Revenue by Month
+- Top Products by Revenue
+- Top Cities by Orders
+- Revenue by Order Time (hour)
+5 Dashboard Creation
+- Designed an interactive dashboard with:
+- KPI cards (Total Revenue, Avg Days Between Orders, Avg Customer Revenue, Total Orders)
+- Charts (Bar charts, Line charts)
+- Slicers (Order Date, Delivery Date, Occasion filters)
+6 Interactivity
+Connected slicers to multiple Pivot Tables
+Enabled dynamic filtering across the dashboard
